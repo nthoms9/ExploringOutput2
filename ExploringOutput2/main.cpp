@@ -22,4 +22,5 @@ int main()
 {
 	cout << line1 << endl << line2 << endl << line1 << endl << line2 << endl 
 		 << line1 << endl << line2 << endl << line1 << endl << line2 << endl;
+	return 0;
 }
